@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Update {
+public class Update {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
